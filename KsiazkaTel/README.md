@@ -109,6 +109,7 @@ Uruchom PhoneBookWPF.exe
 ## Architektura
 
 ### Struktura projektu
+
 PhoneBookWPF/
 ├── App.xaml                    # Zasoby i konwertery
 ├── App.xaml.cs                 # Punkt startowy
@@ -157,7 +158,7 @@ Możliwość ręcznej edycji plików
 ## Motywy graficzne
 ### Dostępne motywy
 
-|Motyw | Paleta kolorów | Przeznaczenie
+|Motyw | Paleta kolorów | Przeznaczenie |
 | ------ | ------ | ------ |
 |Domyślny | Niebiesko-zielony, jasny | Standardowy, przyjazny|
 |Ciemny | Ciemne tło, różowe akcenty | Praca wieczorem|
