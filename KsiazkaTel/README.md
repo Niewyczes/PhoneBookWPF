@@ -134,10 +134,12 @@ ThemeManager.cs – obsługa motywów
 
 ## Przechowywanie danych
 Pliki danych
-| Plik | Opis | Format | Przykład
+
+| Plik | Opis | Format | Przykład |
 | ------ | ------ | ------ | ------ |
-| phonebook.json | Kontakty | JSON | [{"FirstName":"Jan",...}]
-| settings.json | Ustawienia | JSON | {"Theme":"Default"}
+| phonebook.json | Kontakty | JSON | [{"FirstName":"Jan",...}] |
+| settings.json | Ustawienia | JSON | {"Theme":"Default"} |
+
 ### Mechanizm zapisywania
 
 Automatyczne zapisywanie przy:
@@ -154,12 +156,14 @@ Możliwość ręcznej edycji plików
 
 ## Motywy graficzne
 ### Dostępne motywy
+
 |Motyw | Paleta kolorów | Przeznaczenie
 | ------ | ------ | ------ |
 |Domyślny | Niebiesko-zielony, jasny | Standardowy, przyjazny|
 |Ciemny | Ciemne tło, różowe akcenty | Praca wieczorem|
 |Hakerski | Zielone tło, terminalowy | Dla programistów|
-Zmiana motywu
+
+### Zmiana motywu
 
     Kliknij ComboBox w prawym górnym rogu
 
