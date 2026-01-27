@@ -62,7 +62,7 @@ Kompletna aplikacja do zarządzania kontaktami stworzona w Windows Presentation 
 
 ### Klonowanie repozytorium
 ```bash
-git clone https://github.com/twoj-uzytkownik/phonebook-wpf.git
+git clone https://github.com/Niewyczes/PhoneBookWPF
 cd phonebook-wpf
 ```
 ### Instalacja pakietów NuGet
